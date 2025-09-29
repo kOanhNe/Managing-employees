@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|d:\\myc#\\project\\qlnv\\qlnvwinapp\\qlnvwinapp\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\qlnvwinapp\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0A8156-31A2-4887-B6C1-CEF311BB26E7}|QLNVWinApp\\QLNVWinApp.csproj|solutionrelative:qlnvwinapp\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\frmMain.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmMain.cs",
+              "RelativeToolTip": "QLNVWinApp\\frmMain.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:25:10.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChamCong.cs [Design]",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmChamCong.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\frmChamCong.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmChamCong.cs [Design]",
+              "RelativeToolTip": "QLNVWinApp\\frmChamCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:48:00.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChamCong.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmChamCong.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\frmChamCong.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmChamCong.cs",
+              "RelativeToolTip": "QLNVWinApp\\frmChamCong.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:46:28.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DAL.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\DAL.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DAL.cs",
+              "RelativeToolTip": "QLNVWinApp\\DAL.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAqwPAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:40:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DTO.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\DTO.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DTO.cs",
+              "RelativeToolTip": "QLNVWinApp\\DTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:29:33.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\frmDangNhap.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\frmDangNhap.cs",
+              "RelativeToolTip": "QLNVWinApp\\frmDangNhap.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:28:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\Program.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\Program.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\Program.cs",
+              "RelativeToolTip": "QLNVWinApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:18:03.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DBConnection.cs",
+              "RelativeDocumentMoniker": "QLNVWinApp\\DBConnection.cs",
+              "ToolTip": "D:\\MyC#\\Project\\QLNV\\QLNVWinApp\\QLNVWinApp\\DBConnection.cs",
+              "RelativeToolTip": "QLNVWinApp\\DBConnection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:07:45.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
